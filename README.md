@@ -8,8 +8,8 @@ working flow:
 1. initial setup
 2. edit your code in any editor ( mostly vex code pro )
 3. go to github-desktop
-   go to changes
-   add comment on what is your changes aslo some detail descriptions
-   then push commit button
-   then push the push/fetch origon button
+   * go to changes
+   * add comment on what is your changes aslo some detail descriptions
+   * then push commit button
+   * then push the push/fetch origon button
  
